@@ -1,6 +1,6 @@
-Leeds butterfly dataset from Kaggle
+Leeds butterfly dataset
 
-https://www.kaggle.com/veeralakrishna/butterfly-dataset
+**Dataset:** http://www.josiahwang.com/dataset/leedsbutterfly/leedsbutterfly_dataset_v1.0.zip
 
 contains 3 folders and a README.txt
 Folder 1: descriptions, 10 textfiles with ID number, English and Latin names as well as a short description of the species
