@@ -33,9 +33,12 @@ In Proceedings of the 20th British Machine Vision Conference (BMVC2009), Sept 20
 
 Information
 ===========
+
 This ZIP archive contains:
 1. 832 images for ten butterfly categories (55-100 images per category), collected from Google Images and manually filtered.
+
 2. Segmentation masks for each image
+
 3. Textual descriptions for each butterfly category, obtained from http://www.enature.com/fieldguides/.
 
 
@@ -45,16 +48,27 @@ The 'images' folder contains a total of 832 images for ten butterfly categories,
 Naming convention: Each image is prefixed with the category ID of the butterfly (001, 002, ..., 010) followed by the sequence number of the image within the category. Please note that the sequence numbers may not necessarily be consecutive.
 
 The scientific (Latin) names of the butterfly categories are:
+
 001: Danaus plexippus	
+
 002: Heliconius charitonius	
+
 003: Heliconius erato	
+
 004: Junonia coenia	
+
 005: Lycaena phlaeas
+
 006: Nymphalis antiopa	
+
 007: Papilio cresphontes	
+
 008: Pieris rapae	
+
 009: Vanessa atalanta	
+
 010: Vanessa cardui
+
 
 
 Segmentation masks
